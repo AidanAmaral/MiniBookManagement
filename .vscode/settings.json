@@ -1,0 +1,9 @@
+{
+    "java.debug.settings.vmArgs": "--module-path \"C:/Users/Aidan/Documents/JavaFX/javafx-sdk-21.0.9/lib\" --add-modules javafx.controls,javafx.fxml",
+    "java.project.referencedLibraries": [
+        "C:/Users/Aidan/Documents/JavaFX/javafx-sdk-21.0.9/lib/*.jar",
+        "${workspaceFolder}/lib/mysql-connector-j-9.5.0.jar"
+    ],
+    "java.project.outputPath": "bin",
+    "java.configuration.updateBuildConfiguration": "automatic"
+}
